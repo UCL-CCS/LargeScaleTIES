@@ -1,6 +1,6 @@
 # The standard format of all files is: Column I --> Ligand pair; Column II --> ddG_calc; Column III --> error bar on ddG_calc; Column IV --> ddG_exp; Column V (if exists) --> Protein system
 # All values are in kcal/mol
-# The names of all files are self-explanatory. For instance, under "large_ensembles", all files corresponding to results obtained using 10 replicas have a suffix "-10reps".
+# The names of all files are self-explanatory. For instance, under "large_ensembles", all files corresponding to results obtained using 10 replicas have a suffix "10reps" and so on.
 
 *_ddG.dat: Protein-wise ddG values for all ligand pairs using the standard TIES protocol.
 
