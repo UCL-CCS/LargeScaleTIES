@@ -6,6 +6,9 @@ The former contains AMBER input files used for our simulations for complex simul
 
 Input for simulations using RESP charges for all 60 ligand pairs is also included in the directory called "RESP".
 There are two subdirectories named "rand1" and "rand2" that contain input for each subset of 30 ligand pairs separately.
+The directory structure in these subdirectories is identical to the one described above for individual protein systems.
+
+Please note that the input structures and parameters used for REST2 simulations were the same as those of the standard TIES simulations.
 
 "ddGs" directory contains ddG values for all ligand pairs using the standard TIES protocol as well as those for the various subsets of ligand pairs studied using RESP, REST2, large ensembles, etc. More details in "ddGs/README.txt".
 
