@@ -10,7 +10,7 @@ REST2: ddGs for subsets "rand1" and "rand2" using the enhanced sampling protocol
 
 large-alch-diff: ddGs for the 43 ligand transformations with the difference between disappearing and appearing atoms of greater than 10.
 
-large_ensembles: ddGs using large ensembles of sizes 10 or 20 for selected MCL1 and PTP1B ligand pairs. Also, contains ddGs for PTP1B ligand pairs using smaller alchemical region (named "cal-exp-only-smallalch.dat").
+large_ensembles: ddGs using large ensembles of sizes 10 or 20 for selected MCL1 and PTP1B ligand pairs. Also, contains ddGs for PTP1B ligand pairs using smaller alchemical region (named "cal-exp-only-smallalch.dat"). In addition, the MCL1 directory also contains the data used to plot Figure 4.
 
 pde-tr-size: Contains ddGs separately for "s2s", "l2l" and "s2l" ligand pairs of PDE2 system.
 
