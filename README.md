@@ -12,3 +12,4 @@ Please note that the input structures and parameters used for REST2 simulations 
 
 "ddGs" directory contains ddG values for all ligand pairs using the standard TIES protocol as well as those for the various subsets of ligand pairs studied using RESP, REST2, large ensembles, etc. More details in "ddGs/README.txt".
 
+"Figs_2_3" directory contains all data used to generate Figures 2 and 3. Description of the various files in this directory is available in "Figs_2_3/README.txt".
